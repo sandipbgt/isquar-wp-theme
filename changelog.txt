@@ -1,0 +1,34 @@
+Changelog for Isquar WordPress Theme
+
+=1.0.7=
+*Fix sanitization of urls in single.php file
+
+=1.0.6=
+*Removed default background iamge.
+
+=1.0.5=
+*Updated licence reference for default body background image used.
+
+=1.0.4=
+*Added licence reference for background patterns used.
+
+=1.0.3=
+*Fixed long post title from breaking the layout
+*Fixed some css rules
+*Fixed slider issues
+*Added unminified js file of flexslider
+*Added new screenshot of 880*660 resolution
+*Removed extra footer links
+*Removed dashboard news feed hook
+
+= 1.0.2 =
+*Added widget for feedburner subscription and social profiles links and removed options for feedburner subscription and social profiles links theme option page
+*Added support for 5 more social profile links in the widget
+*Navigation bar background colour fixed
+*Fixed Responsive Layout Problem
+
+= 1.0.1 = 
+*Header image and text floating problem fixed
+
+= 1.0 =
+* First public release.
